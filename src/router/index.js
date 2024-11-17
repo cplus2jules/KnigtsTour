@@ -1,5 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import MainMenu from '../views/MainMenu.vue'
+import ChessBoard from '@/views/ChessBoard.vue'
 
 
 const router = createRouter({
@@ -10,6 +11,12 @@ const router = createRouter({
       name: 'Menu',
       component: MainMenu,
     },
+    {
+      path: '/chessboard',
+      name: 'Chessboard',
+      component: ChessBoard,
+    },
+
     // {
     //   path: '/about',
     //   name: 'about',
