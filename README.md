@@ -1,6 +1,8 @@
-# KnigtsTour
+# KnightsTour
 
-This template should help get you started developing with Vue 3 in Vite.
+Developed for coursework CSC 108 as a final project. 
+
+Knights Tour is an interactive puzzle game where the player moves a knight across a chessboard, attempting to visit every square exactly once.
 
 ## Recommended IDE Setup
 
