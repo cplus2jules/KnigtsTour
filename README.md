@@ -4,14 +4,6 @@ _Developed for coursework CSC 108 as a final project using the Warnsdorf Rule Al
 
 Knights Tour is an interactive puzzle game where the player moves a knight across a chessboard, attempting to visit every square exactly once.
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
 ## Project Setup
 
 ```sh
